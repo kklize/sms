@@ -1,0 +1,14 @@
+/application/cache
+/application/logs
+/application/config/database.php
+/application/config/sys_config.php
+/assets/pc/node_modules
+/assets/mobile/node_modules
+/shared/sms/YM/default_config.php
+/shared/sms/YM/yingxiao_config.php
+/shared/sms/YiXing/yiconfig.php
+/redis_error.log
+/insert_sms_list_error.log
+/update_sms_list_error.log
+/update_ym_sms_list_status_error.log
+/update_yixing_sms_list_status_error.log
